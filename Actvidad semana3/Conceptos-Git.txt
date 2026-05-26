@@ -1,0 +1,8 @@
+Repositorio
+Es básicamente la carpeta inteligente donde se almacena todo tu proyecto y donde Git hace su magia. No solo guarda tus archivos de código actuales, sino que también mantiene oculto todo el historial completo de las modificaciones que ha sufrido el proyecto desde que se creó.
+
+Commit
+Piensa en esto como una foto instantánea o un punto de guardado en un videojuego para tu código. Cada vez que haces un commit, registras un cambio importante con un mensaje descriptivo, lo que te permite dejar una huella clara de qué hiciste y poder volver a ese punto exacto si algo sale mal.
+
+Push
+Es la acción de "subir" o enviar todos los commits que has hecho de forma local en tu computadora hacia el servidor remoto, como GitHub o GitLab. Gracias a esto, tu trabajo queda respaldado de forma segura en la nube y tus compañeros de equipo pueden ver y descargar tus actualizaciones.
